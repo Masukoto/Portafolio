@@ -28,7 +28,7 @@ Te ayudo a conseguir más clientes con una web rápida y profesional.
     $10 - $30 por tarea
     
 # Sobre mi
-Nombre: Daniel Ramirez
-Mi portafolio web:
-Tel: 302 2416003
-Correo: dramirezo1031@gmail.com
+    Nombre: Daniel Ramirez
+    Mi portafolio web:
+    Tel: 302 2416003
+    Correo: dramirezo1031@gmail.com
