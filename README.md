@@ -2,8 +2,7 @@
 Hola, soy desarrollador web y ayudo a negocios a tener páginas rápidas y modernas. Si alguien necesita ayuda, DM abierto.
 Te ayudo a conseguir más clientes con una web rápida y profesional.
 
-# Servicio principal
-    Páginas web para negocios pequeños
+# Servicio principal: Páginas web para negocios pequeños
       Restaurantes
       Tiendas
       Freelancers
@@ -12,7 +11,7 @@ Te ayudo a conseguir más clientes con una web rápida y profesional.
       Página atractiva
       Responsive
       Formulario de contacto (PHP o Python)
-  # Por separado:
+  # Por separado (Te ayudo a encontrar un buen hosting para tu web en minutos.):
       Hosting básico
       
   # Precios
@@ -30,7 +29,9 @@ Te ayudo a conseguir más clientes con una web rápida y profesional.
 # Sobre mi
     Nombre: Daniel Ramirez
     Mi portafolio web:
-    Tel: 302 2416003
+    Tel: +57 302 2416003
     Correo: dramirezo1031@gmail.com
 
 # Clientes anteriores
+    Nombre:Victor Osma
+    Tel: +57 310 5862279
