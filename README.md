@@ -26,3 +26,9 @@ Te ayudo a conseguir más clientes con una web rápida y profesional.
       El formulario no funciona
       Quiero cambiar algo del diseño
     $10 - $30 por tarea
+    
+# Sobre mi
+Nombre: Daniel Ramirez
+Mi portafolio web:
+Tel: 302 2416003
+Correo: dramirezo1031@gmail.com
